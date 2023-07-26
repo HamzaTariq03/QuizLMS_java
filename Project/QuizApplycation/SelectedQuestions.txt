@@ -1,0 +1,3 @@
+what is your name? {a, b, c, d, a}
+oop in?  {c, c++, java, phyton, java}
+what is a database{a, b, c, d, c}

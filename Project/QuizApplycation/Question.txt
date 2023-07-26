@@ -1,0 +1,9 @@
+
+what is your name? {a, b, c, d, a}
+oop in?  {c, c++, java, phyton, java}
+lab is a machine? is {y, n, a, b, y}
+hello is a word in? is {u, e, f, p, e}
+what is program{a, b, c, d, d}
+what is ur age{2, 3, 4, 5, 5}
+{, , , , }
+what is a database{a, b, c, d, c}
